@@ -1,5 +1,5 @@
 # project-first
 this is my first project
 <br>
-author-chandan
+author-chandan shaandan
 </br>
